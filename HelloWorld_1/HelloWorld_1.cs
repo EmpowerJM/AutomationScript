@@ -68,7 +68,7 @@ namespace HelloWorld_1
 		/// <param name="engine">Link with SLAutomation process.</param>
 		public void Run(IEngine engine)
 		{
-			engine.GenerateInformation("Hello world change");
+			engine.GenerateInformation("Hello world change 02");
 		}
 	}
 }
